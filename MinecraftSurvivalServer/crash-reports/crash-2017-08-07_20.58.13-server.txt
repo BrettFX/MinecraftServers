@@ -1,0 +1,236 @@
+---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 07/08/17 20:58
+Description: Watching Server
+
+java.lang.Error
+	at bdg.a(SourceFile:35)
+	at bdg.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdt.a(SourceFile:15)
+	at bdi.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdf.c(SourceFile:35)
+	at bdf.a(SourceFile:22)
+	at bdf.d(SourceFile:70)
+	at bdf.a(SourceFile:24)
+	at bdf.e(SourceFile:100)
+	at bdf.a(SourceFile:26)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bdg.a(SourceFile:15)
+	at bdh.a(SourceFile:18)
+	at bde.a(SourceFile:18)
+	at bdu.a(SourceFile:11)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bds.a(SourceFile:21)
+	at bdr.a(SourceFile:14)
+	at bed.a(SourceFile:19)
+	at bdg.a(SourceFile:15)
+	at bed.a(SourceFile:19)
+	at bdx.a(SourceFile:16)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bdy.a(SourceFile:15)
+	at bdw.a(SourceFile:25)
+	at anl.a(SourceFile:70)
+	at aze.a(SourceFile:116)
+	at aze.a(SourceFile:205)
+	at on.c(SourceFile:101)
+	at ot.a(SourceFile:85)
+	at ou.c(SourceFile:147)
+	at oo.d(SourceFile:225)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:464)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at bdg.a(SourceFile:35)
+	at bdg.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdt.a(SourceFile:15)
+	at bdi.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdf.c(SourceFile:35)
+	at bdf.a(SourceFile:22)
+	at bdf.d(SourceFile:70)
+	at bdf.a(SourceFile:24)
+	at bdf.e(SourceFile:100)
+	at bdf.a(SourceFile:26)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bdg.a(SourceFile:15)
+	at bdh.a(SourceFile:18)
+	at bde.a(SourceFile:18)
+	at bdu.a(SourceFile:11)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bds.a(SourceFile:21)
+	at bdr.a(SourceFile:14)
+	at bed.a(SourceFile:19)
+	at bdg.a(SourceFile:15)
+	at bed.a(SourceFile:19)
+	at bdx.a(SourceFile:16)
+	at bed.a(SourceFile:19)
+	at bed.a(SourceFile:19)
+	at bdy.a(SourceFile:15)
+	at bdw.a(SourceFile:25)
+	at anl.a(SourceFile:70)
+	at aze.a(SourceFile:116)
+	at aze.a(SourceFile:205)
+	at on.c(SourceFile:101)
+	at ot.a(SourceFile:85)
+	at ou.c(SourceFile:147)
+	at oo.d(SourceFile:225)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:624)
+	at nz.D(SourceFile:349)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:560)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #2" Id=20 RUNNABLE (in native)
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:269)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:79)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@32a2b1
+	-  locked java.util.Collections$UnmodifiableSet@f54987
+	-  locked sun.nio.ch.EPollSelectorImpl@cac9c1
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"threadDeathWatcher-2-1" Id=19 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Server IO #1" Id=18 RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:269)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:79)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@1c843bc
+	-  locked java.util.Collections$UnmodifiableSet@d0429e
+	-  locked sun.nio.ch.EPollSelectorImpl@e78132
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"Server Watchdog" Id=17 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:446)
+	at oa.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Server IO #0" Id=16 RUNNABLE
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:269)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:79)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@15deae
+	-  locked java.util.Collections$UnmodifiableSet@1e7bcf3
+	-  locked sun.nio.ch.EPollSelectorImpl@1fbda63
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:732)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:388)
+	...
+
+
+"Server console handler" Id=14 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	-  locked java.io.BufferedInputStream@1fd2eff
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	-  locked java.io.InputStreamReader@1117640
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	...
+
+
+"DestroyJavaVM" Id=15 RUNNABLE
+
+
+"Server thread" Id=12 RUNNABLE
+	at bdg.a(SourceFile:35)
+	at bdg.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdt.a(SourceFile:15)
+	at bdi.a(SourceFile:15)
+	at bdg.a(SourceFile:15)
+	at bdf.c(SourceFile:35)
+	at bdf.a(SourceFile:22)
+	...
+
+
+"Server Infinisleeper" Id=11 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at nz$1.run(SourceFile:84)
+
+
+"Snooper Timer" Id=10 TIMED_WAITING on java.util.TaskQueue@1a945b5
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1a945b5
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@2af21
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@2af21
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@d4e348
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@d4e348
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:157)
+
+
+
+Stacktrace:
+	at oa.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.1
+	Operating System: Linux (arm) version 4.9.40-v7+
+	Java Version: 1.8.0_65, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 820722984 bytes (782 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [oq['aeonvortex'/385, l='world', x=891.72, y=70.00, z=305.70]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
