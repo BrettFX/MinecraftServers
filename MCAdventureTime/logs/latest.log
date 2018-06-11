@@ -1,51 +1,69 @@
-[22:17:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:17:01] [Server thread/INFO]: Loading properties
-[22:17:01] [Server thread/INFO]: Default game type: SURVIVAL
-[22:17:01] [Server thread/INFO]: Generating keypair
-[22:17:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:17:03] [Server thread/INFO]: Using default channel type
-[22:17:04] [Server thread/INFO]: Preparing level "world"
-[22:17:06] [Server thread/INFO]: Loaded 488 advancements
-[22:17:07] [Server thread/INFO]: Preparing start region for level 0
-[22:17:10] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:11] [Server thread/INFO]: Preparing spawn area: 4%
-[22:17:12] [Server thread/INFO]: Preparing spawn area: 8%
-[22:17:13] [Server thread/INFO]: Preparing spawn area: 12%
-[22:17:14] [Server thread/INFO]: Preparing spawn area: 16%
-[22:17:15] [Server thread/INFO]: Preparing spawn area: 21%
-[22:17:16] [Server thread/INFO]: Preparing spawn area: 25%
-[22:17:17] [Server thread/INFO]: Preparing spawn area: 30%
-[22:17:18] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID e8bf3a67-4316-4daa-a4b2-00309d49f369
-[22:17:18] [Server thread/INFO]: Preparing spawn area: 36%
-[22:17:20] [Server thread/INFO]: Preparing spawn area: 41%
-[22:17:21] [Server thread/INFO]: Preparing spawn area: 46%
-[22:17:22] [Server thread/INFO]: Preparing spawn area: 52%
-[22:17:23] [Server thread/INFO]: Preparing spawn area: 56%
-[22:17:24] [Server thread/INFO]: Preparing spawn area: 61%
-[22:17:25] [Server thread/INFO]: Preparing spawn area: 67%
-[22:17:26] [Server thread/INFO]: Preparing spawn area: 73%
-[22:17:27] [Server thread/INFO]: Preparing spawn area: 79%
-[22:17:28] [Server thread/INFO]: Preparing spawn area: 83%
-[22:17:29] [Server thread/INFO]: Preparing spawn area: 88%
-[22:17:30] [Server thread/INFO]: Preparing spawn area: 92%
-[22:17:31] [Server thread/INFO]: Preparing spawn area: 96%
-[22:17:32] [Server thread/INFO]: Done (27.151s)! For help, type "help" or "?"
-[22:17:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
-[22:17:51] [User Authenticator #1/INFO]: UUID of player GuitarManiac08 is 1548687c-70cc-4672-b631-9eb5a9770eb4
-[22:17:51] [Server thread/INFO]: GuitarManiac08[/73.213.13.208:51569] logged in with entity id 290 at (-167.84639258818967, 68.0, -232.1494436184843)
-[22:17:51] [Server thread/INFO]: GuitarManiac08 joined the game
-[22:17:52] [User Authenticator #2/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[22:17:55] [Server thread/INFO]: aeonvortex[/130.85.226.154:44674] logged in with entity id 304 at (-87.56504203906925, 60.0, -239.5226365550275)
-[22:17:55] [Server thread/INFO]: aeonvortex joined the game
-[22:18:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31922ms behind, skipping 638 tick(s)
-[22:18:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4201ms behind, skipping 84 tick(s)
-[22:19:21] [Server thread/INFO]: <GuitarManiac08> yo
-[22:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 53783ms behind, skipping 1075 tick(s)
-[22:19:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11522ms behind, skipping 230 tick(s)
-[22:20:10] [Server thread/WARN]: aeonvortex moved too quickly! -9.78442620669415,-2.0,1.4707198387267795
-[22:20:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 27049ms behind, skipping 540 tick(s)
-[22:20:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4676ms behind, skipping 93 tick(s)
-[22:21:01] [Server thread/INFO]: GuitarManiac08 was shot by Skeleton
-[22:22:00] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[22:22:00] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[22:22:01] [Server Watchdog/ERROR]: This crash report has been saved to: /home/pi/Servers/Minecraft/MCAdventureTime/./crash-reports/crash-2018-06-10_22.22.00-server.txt
+[00:01:06] [Server thread/INFO]: [GuitarManiac08: Set the time to 13000]
+[00:01:09] [Server thread/INFO]: GuitarManiac08 has made the advancement [Sweet dreams]
+[00:01:20] [Server thread/INFO]: aeonvortex has made the advancement [Sweet dreams]
+[00:08:24] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to aeonvortex]
+[00:13:04] [Server thread/INFO]: GuitarManiac08 was shot by Skeleton
+[00:13:21] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to aeonvortex]
+[00:15:50] [Server thread/INFO]: [aeonvortex: Teleported aeonvortex to GuitarManiac08]
+[00:17:30] [Server thread/INFO]: [GuitarManiac08: Set the time to 1000]
+[00:17:33] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:19:04] [Server thread/INFO]: aeonvortex fell from a high place
+[00:19:47] [Server thread/INFO]: [aeonvortex: Teleported aeonvortex to GuitarManiac08]
+[00:22:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
+[00:22:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3415ms behind, skipping 68 tick(s)
+[00:22:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2498ms behind, skipping 49 tick(s)
+[00:23:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6149ms behind, skipping 122 tick(s)
+[00:26:14] [Server thread/INFO]: [aeonvortex: Teleported aeonvortex to GuitarManiac08]
+[00:27:28] [Server thread/INFO]: [GuitarManiac08: Set the time to 1000]
+[00:27:31] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:28:06] [Server thread/INFO]: [aeonvortex: Teleported aeonvortex to GuitarManiac08]
+[00:28:48] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Creative Mode]
+[00:29:21] [Server thread/INFO]: [aeonvortex: Set own game mode to Creative Mode]
+[00:29:50] [Server thread/WARN]: aeonvortex moved too quickly! 10.247192286019299,0.0,-1.2962348954658864
+[00:30:38] [Server thread/WARN]: GuitarManiac08 moved too quickly! 9.113764499393483,0.0,-4.672662102997037
+[00:30:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4695ms behind, skipping 93 tick(s)
+[00:31:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25327ms behind, skipping 506 tick(s)
+[00:31:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4787ms behind, skipping 95 tick(s)
+[00:32:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 32480ms behind, skipping 649 tick(s)
+[00:32:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5449ms behind, skipping 108 tick(s)
+[00:33:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15064ms behind, skipping 301 tick(s)
+[00:33:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4270ms behind, skipping 85 tick(s)
+[00:33:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25471ms behind, skipping 509 tick(s)
+[00:33:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3974ms behind, skipping 79 tick(s)
+[00:34:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22433ms behind, skipping 448 tick(s)
+[00:34:52] [Server thread/WARN]: aeonvortex moved too quickly! 7.330468053072764,0.0,-6.881243435597469
+[00:35:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2652ms behind, skipping 53 tick(s)
+[00:37:47] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to -893.5, 60.0, -2892.5]
+[00:37:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2388ms behind, skipping 47 tick(s)
+[00:38:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2197ms behind, skipping 43 tick(s)
+[00:39:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2135ms behind, skipping 42 tick(s)
+[00:39:43] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to 1928.5, 120.0, 845.5]
+[00:39:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3422ms behind, skipping 68 tick(s)
+[00:39:55] [Server thread/INFO]: [aeonvortex: Teleported aeonvortex to GuitarManiac08]
+[00:40:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33331ms behind, skipping 666 tick(s)
+[00:40:52] [Server thread/WARN]: GuitarManiac08 moved too quickly! -1.133881343318535,-6.3749796909088445,8.435254139333097
+[00:41:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2219ms behind, skipping 44 tick(s)
+[00:42:14] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to aeonvortex]
+[00:42:31] [Server thread/INFO]: [GuitarManiac08: Set the time to 1000]
+[00:42:34] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:55:53] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:00:16] [Server thread/INFO]: GuitarManiac08 has made the advancement [Bring Home the Beacon]
+[01:15:05] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:19:22] [Server thread/INFO]: GuitarManiac08 has made the advancement [Cover Me With Diamonds]
+[01:23:41] [Server thread/INFO]: GuitarManiac08 lost connection: Disconnected
+[01:23:41] [Server thread/INFO]: GuitarManiac08 left the game
+[01:24:00] [Server thread/INFO]: aeonvortex lost connection: Disconnected
+[01:24:00] [Server thread/INFO]: aeonvortex left the game
+[01:24:32] [Server thread/INFO]: Stopping the server
+[01:24:32] [Server thread/INFO]: Stopping server
+[01:24:32] [Server thread/INFO]: Saving players
+[01:24:32] [Server thread/INFO]: Saving worlds
+[01:24:32] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:24:32] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:24:32] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:24:32] [Server Shutdown Thread/INFO]: Stopping server
+[01:24:32] [Server Shutdown Thread/INFO]: Saving players
+[01:24:32] [Server Shutdown Thread/INFO]: Saving worlds
+[01:24:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[01:24:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:24:32] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
