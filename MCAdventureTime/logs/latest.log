@@ -1,7 +1,131 @@
-[00:15:40] [Server thread/INFO]: Stopping the server
-[00:15:40] [Server thread/INFO]: Stopping server
-[00:15:40] [Server thread/INFO]: Saving players
-[00:15:40] [Server thread/INFO]: Saving worlds
-[00:15:40] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[00:15:41] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[00:15:41] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[00:35:16] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[00:35:16] [Server thread/INFO]: Loading properties
+[00:35:16] [Server thread/INFO]: Default game type: SURVIVAL
+[00:35:16] [Server thread/INFO]: Generating keypair
+[00:35:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:35:17] [Server thread/INFO]: Using default channel type
+[00:35:17] [Server thread/INFO]: Preparing level "world"
+[00:35:18] [Server thread/INFO]: Loaded 488 advancements
+[00:35:18] [Server thread/INFO]: Preparing start region for level 0
+[00:35:19] [Server thread/INFO]: Preparing spawn area: 1%
+[00:35:20] [Server thread/INFO]: Preparing spawn area: 68%
+[00:35:20] [Server thread/INFO]: Done (2.885s)! For help, type "help" or "?"
+[00:35:27] [User Authenticator #1/INFO]: UUID of player GuitarManiac08 is 1548687c-70cc-4672-b631-9eb5a9770eb4
+[00:35:27] [Server thread/INFO]: GuitarManiac08[/73.213.13.208:58541] logged in with entity id 147 at (2033.1889898590618, 112.0, 706.219190951441)
+[00:35:27] [Server thread/INFO]: GuitarManiac08 joined the game
+[00:35:29] [User Authenticator #2/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
+[00:35:29] [Server thread/INFO]: aeonvortex[/130.85.226.154:21981] logged in with entity id 479 at (2032.481723336618, 105.53292827534491, 702.1196582927882)
+[00:35:29] [Server thread/INFO]: aeonvortex joined the game
+[00:35:58] [Server thread/INFO]: [@: Changing to clear weather]
+[00:36:01] [Server thread/INFO]: [@: Set the time to 1000]
+[00:44:25] [Server thread/INFO]: [@: Changing to clear weather]
+[00:44:25] [Server thread/INFO]: [@: Set the time to 1000]
+[00:44:25] [Server thread/INFO]: [@: Changing to clear weather]
+[00:44:25] [Server thread/INFO]: [@: Set the time to 1000]
+[00:44:26] [Server thread/INFO]: [@: Changing to clear weather]
+[00:44:26] [Server thread/INFO]: [@: Set the time to 1000]
+[00:52:50] [Server thread/INFO]: [@: Changing to clear weather]
+[00:52:50] [Server thread/INFO]: [@: Set the time to 1000]
+[00:52:50] [Server thread/INFO]: [@: Changing to clear weather]
+[00:52:50] [Server thread/INFO]: [@: Set the time to 1000]
+[00:52:51] [Server thread/INFO]: [@: Changing to clear weather]
+[00:52:51] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:48] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:48] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:48] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:48] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:49] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:49] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:49] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:49] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:50] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:50] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:50] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:50] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:50] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:50] [Server thread/INFO]: [@: Set the time to 1000]
+[00:58:51] [Server thread/INFO]: [@: Changing to clear weather]
+[00:58:51] [Server thread/INFO]: [@: Set the time to 1000]
+[01:07:15] [Server thread/INFO]: [@: Changing to clear weather]
+[01:07:15] [Server thread/INFO]: [@: Set the time to 1000]
+[01:07:15] [Server thread/INFO]: [@: Changing to clear weather]
+[01:07:15] [Server thread/INFO]: [@: Set the time to 1000]
+[01:07:16] [Server thread/INFO]: [@: Changing to clear weather]
+[01:07:16] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:20] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:20] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:21] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:21] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:21] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:21] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:21] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:21] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:22] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:22] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:22] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:22] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:22] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:22] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:23] [Server thread/INFO]: [@: Changing to clear weather]
+[01:14:23] [Server thread/INFO]: [@: Set the time to 1000]
+[01:22:47] [Server thread/INFO]: [@: Changing to clear weather]
+[01:22:47] [Server thread/INFO]: [@: Set the time to 1000]
+[01:22:47] [Server thread/INFO]: [@: Changing to clear weather]
+[01:22:47] [Server thread/INFO]: [@: Set the time to 1000]
+[01:22:48] [Server thread/INFO]: [@: Changing to clear weather]
+[01:22:48] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:25] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:25] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:25] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:25] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:26] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:26] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:26] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:26] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:27] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:27] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:27] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:27] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:27] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:27] [Server thread/INFO]: [@: Set the time to 1000]
+[01:30:28] [Server thread/INFO]: [@: Changing to clear weather]
+[01:30:28] [Server thread/INFO]: [@: Set the time to 1000]
+[01:38:52] [Server thread/INFO]: [@: Changing to clear weather]
+[01:38:52] [Server thread/INFO]: [@: Set the time to 1000]
+[01:38:52] [Server thread/INFO]: [@: Changing to clear weather]
+[01:38:52] [Server thread/INFO]: [@: Set the time to 1000]
+[01:38:53] [Server thread/INFO]: [@: Changing to clear weather]
+[01:38:53] [Server thread/INFO]: [@: Set the time to 1000]
+[01:47:17] [Server thread/INFO]: [@: Changing to clear weather]
+[01:47:17] [Server thread/INFO]: [@: Set the time to 1000]
+[01:47:17] [Server thread/INFO]: [@: Changing to clear weather]
+[01:47:17] [Server thread/INFO]: [@: Set the time to 1000]
+[01:47:18] [Server thread/INFO]: [@: Changing to clear weather]
+[01:47:18] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:02] [Server thread/INFO]: GuitarManiac08 lost connection: Disconnected
+[01:54:02] [Server thread/INFO]: GuitarManiac08 left the game
+[01:54:56] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:56] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:56] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:56] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:57] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:57] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:57] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:57] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:58] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:58] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:58] [Server thread/INFO]: [@: Changing to clear weather]
+[01:54:58] [Server thread/INFO]: [@: Set the time to 1000]
+[01:54:58] [Server thread/INFO]: aeonvortex lost connection: Disconnected
+[01:54:58] [Server thread/INFO]: aeonvortex left the game
+[01:55:01] [Server thread/INFO]: Stopping the server
+[01:55:01] [Server thread/INFO]: Stopping server
+[01:55:01] [Server thread/INFO]: Saving players
+[01:55:01] [Server thread/INFO]: Saving worlds
+[01:55:01] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[01:55:01] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[01:55:01] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[01:55:02] [Server Shutdown Thread/INFO]: Stopping server
+[01:55:02] [Server Shutdown Thread/INFO]: Saving players
+[01:55:02] [Server Shutdown Thread/INFO]: Saving worlds
+[01:55:02] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
