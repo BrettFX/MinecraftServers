@@ -1,160 +1,121 @@
-[01:15:51] [User Authenticator #3/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[01:15:52] [Server thread/INFO]: aeonvortex[/130.85.59.151:13286] logged in with entity id 30250 at (2040.080868170288, 103.0, 684.1040695867279)
-[01:15:52] [Server thread/INFO]: aeonvortex joined the game
-[01:16:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15462ms behind, skipping 309 tick(s)
-[01:16:11] [Server thread/INFO]: [@: Changing to clear weather]
-[01:16:11] [Server thread/INFO]: [@: Set the time to 1000]
-[01:16:12] [Server thread/INFO]: [@: Changing to clear weather]
-[01:16:12] [Server thread/INFO]: [@: Set the time to 1000]
-[01:16:13] [Server thread/INFO]: [@: Changing to clear weather]
-[01:16:13] [Server thread/INFO]: [@: Set the time to 1000]
-[01:16:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6729ms behind, skipping 134 tick(s)
-[01:16:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13221ms behind, skipping 264 tick(s)
-[01:16:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4255ms behind, skipping 85 tick(s)
-[01:17:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4982ms behind, skipping 99 tick(s)
-[01:17:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5507ms behind, skipping 110 tick(s)
-[01:17:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5344ms behind, skipping 106 tick(s)
-[01:17:53] [Server thread/INFO]: aeonvortex lost connection: Timed out
-[01:17:53] [Server thread/INFO]: aeonvortex left the game
-[01:17:56] [Server thread/WARN]: handleDisconnection() called twice
-[01:17:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4723ms behind, skipping 94 tick(s)
-[01:20:38] [User Authenticator #4/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[01:20:38] [Server thread/INFO]: aeonvortex[/130.85.59.151:13136] logged in with entity id 31018 at (2039.8604355746056, 103.0, 680.6680085481805)
-[01:20:38] [Server thread/INFO]: aeonvortex joined the game
-[01:20:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12018ms behind, skipping 240 tick(s)
-[01:21:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7600ms behind, skipping 152 tick(s)
-[01:21:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4543ms behind, skipping 90 tick(s)
-[01:21:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3868ms behind, skipping 77 tick(s)
-[01:22:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14748ms behind, skipping 294 tick(s)
-[01:22:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
-[01:22:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2684ms behind, skipping 53 tick(s)
-[01:22:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9131ms behind, skipping 182 tick(s)
-[01:23:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4984ms behind, skipping 99 tick(s)
-[01:23:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5653ms behind, skipping 113 tick(s)
-[01:23:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9971ms behind, skipping 199 tick(s)
-[01:24:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4059ms behind, skipping 81 tick(s)
-[01:24:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5175ms behind, skipping 103 tick(s)
-[01:24:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13273ms behind, skipping 265 tick(s)
-[01:24:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3891ms behind, skipping 77 tick(s)
-[01:25:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5514ms behind, skipping 110 tick(s)
-[01:25:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7506ms behind, skipping 150 tick(s)
-[01:25:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9909ms behind, skipping 198 tick(s)
-[01:26:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4098ms behind, skipping 81 tick(s)
-[01:26:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11853ms behind, skipping 237 tick(s)
-[01:26:52] [Server thread/WARN]: aeonvortex moved too quickly! 2.2469061370024974,-5.703867993957516,-7.968425261545349
-[01:26:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9666ms behind, skipping 193 tick(s)
-[01:26:55] [Server thread/INFO]: [@: Changing to clear weather]
-[01:26:55] [Server thread/INFO]: [@: Set the time to 1000]
-[01:26:56] [Server thread/INFO]: [@: Changing to clear weather]
-[01:26:56] [Server thread/INFO]: [@: Set the time to 1000]
-[01:26:56] [Server thread/INFO]: [@: Changing to clear weather]
-[01:26:56] [Server thread/INFO]: [@: Set the time to 1000]
-[01:27:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8128ms behind, skipping 162 tick(s)
-[01:27:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5852ms behind, skipping 117 tick(s)
-[01:27:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8783ms behind, skipping 175 tick(s)
-[01:27:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4314ms behind, skipping 86 tick(s)
-[01:28:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11538ms behind, skipping 230 tick(s)
-[01:28:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4478ms behind, skipping 89 tick(s)
-[01:28:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7625ms behind, skipping 152 tick(s)
-[01:29:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6690ms behind, skipping 133 tick(s)
-[01:29:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4115ms behind, skipping 82 tick(s)
-[01:29:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6278ms behind, skipping 125 tick(s)
-[01:29:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3496ms behind, skipping 69 tick(s)
-[01:30:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8653ms behind, skipping 173 tick(s)
-[01:30:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4990ms behind, skipping 99 tick(s)
-[01:30:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8817ms behind, skipping 176 tick(s)
-[01:31:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11348ms behind, skipping 226 tick(s)
-[01:31:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3767ms behind, skipping 75 tick(s)
-[01:31:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7395ms behind, skipping 147 tick(s)
-[01:32:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10161ms behind, skipping 203 tick(s)
-[01:32:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6115ms behind, skipping 122 tick(s)
-[01:32:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7711ms behind, skipping 154 tick(s)
-[01:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6212ms behind, skipping 124 tick(s)
-[01:33:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11636ms behind, skipping 232 tick(s)
-[01:33:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5622ms behind, skipping 112 tick(s)
-[01:33:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7133ms behind, skipping 142 tick(s)
-[01:34:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8460ms behind, skipping 169 tick(s)
-[01:34:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10046ms behind, skipping 200 tick(s)
-[01:34:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10821ms behind, skipping 216 tick(s)
-[01:35:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7584ms behind, skipping 151 tick(s)
-[01:35:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14635ms behind, skipping 292 tick(s)
-[01:35:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2060ms behind, skipping 41 tick(s)
-[01:36:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8664ms behind, skipping 173 tick(s)
-[01:36:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6500ms behind, skipping 130 tick(s)
-[01:36:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11732ms behind, skipping 234 tick(s)
-[01:36:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6394ms behind, skipping 127 tick(s)
-[01:37:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7406ms behind, skipping 148 tick(s)
-[01:37:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6195ms behind, skipping 123 tick(s)
-[01:37:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12884ms behind, skipping 257 tick(s)
-[01:38:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4472ms behind, skipping 89 tick(s)
-[01:38:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7546ms behind, skipping 150 tick(s)
-[01:38:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6242ms behind, skipping 124 tick(s)
-[01:39:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12464ms behind, skipping 249 tick(s)
-[01:39:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4523ms behind, skipping 90 tick(s)
-[01:39:16] [Server thread/INFO]: [@: Changing to clear weather]
-[01:39:16] [Server thread/INFO]: [@: Set the time to 1000]
-[01:39:17] [Server thread/INFO]: [@: Changing to clear weather]
-[01:39:17] [Server thread/INFO]: [@: Set the time to 1000]
-[01:39:18] [Server thread/INFO]: [@: Changing to clear weather]
-[01:39:18] [Server thread/INFO]: [@: Set the time to 1000]
-[01:39:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10888ms behind, skipping 217 tick(s)
-[01:39:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5452ms behind, skipping 109 tick(s)
-[01:40:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13886ms behind, skipping 277 tick(s)
-[01:40:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3754ms behind, skipping 75 tick(s)
-[01:40:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6914ms behind, skipping 138 tick(s)
-[01:40:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9038ms behind, skipping 180 tick(s)
-[01:41:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3268ms behind, skipping 65 tick(s)
-[01:42:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 35787ms behind, skipping 715 tick(s)
-[01:42:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2649ms behind, skipping 52 tick(s)
-[01:42:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8374ms behind, skipping 167 tick(s)
-[01:43:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13967ms behind, skipping 279 tick(s)
-[01:43:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3143ms behind, skipping 62 tick(s)
-[01:43:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6965ms behind, skipping 139 tick(s)
-[01:43:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16242ms behind, skipping 324 tick(s)
-[01:44:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3213ms behind, skipping 64 tick(s)
-[01:44:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6150ms behind, skipping 123 tick(s)
-[01:44:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9603ms behind, skipping 192 tick(s)
-[01:45:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8346ms behind, skipping 166 tick(s)
-[01:45:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5056ms behind, skipping 101 tick(s)
-[01:45:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8476ms behind, skipping 169 tick(s)
-[01:45:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6434ms behind, skipping 128 tick(s)
-[01:45:56] [Server thread/WARN]: aeonvortex moved too quickly! -9.719694403239828,0.0,-2.673506132823036
-[01:46:13] [Server thread/WARN]: aeonvortex moved too quickly! 8.294046781982615,2.913744115781782,5.347761479001406
-[01:46:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23101ms behind, skipping 462 tick(s)
-[01:46:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4555ms behind, skipping 91 tick(s)
-[01:46:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8087ms behind, skipping 161 tick(s)
-[01:46:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4126ms behind, skipping 82 tick(s)
-[01:47:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5999ms behind, skipping 119 tick(s)
-[01:47:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2881ms behind, skipping 57 tick(s)
-[01:48:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12007ms behind, skipping 240 tick(s)
-[01:48:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17427ms behind, skipping 348 tick(s)
-[01:48:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2914ms behind, skipping 58 tick(s)
-[01:49:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9140ms behind, skipping 182 tick(s)
-[01:49:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5720ms behind, skipping 114 tick(s)
-[01:49:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15736ms behind, skipping 314 tick(s)
-[01:49:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4340ms behind, skipping 86 tick(s)
-[01:49:59] [Server thread/WARN]: aeonvortex moved too quickly! -2.415732987829415,0.0,-10.232626128663583
-[01:50:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10883ms behind, skipping 217 tick(s)
-[01:50:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5965ms behind, skipping 119 tick(s)
-[01:51:00] [Server thread/WARN]: aeonvortex moved too quickly! 4.755437607351041,-9.0,-0.306601885328746
-[01:51:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24997ms behind, skipping 499 tick(s)
-[01:51:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3172ms behind, skipping 63 tick(s)
-[01:51:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9791ms behind, skipping 195 tick(s)
-[01:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4108ms behind, skipping 82 tick(s)
-[01:52:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13745ms behind, skipping 274 tick(s)
-[01:52:23] [Server thread/INFO]: aeonvortex lost connection: Disconnected
-[01:52:23] [Server thread/INFO]: aeonvortex left the game
-[01:52:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11369ms behind, skipping 227 tick(s)
-[23:44:26] [Server thread/INFO]: Stopping the server
-[23:44:26] [Server thread/INFO]: Stopping server
-[23:44:26] [Server thread/INFO]: Saving players
-[23:44:26] [Server thread/INFO]: Saving worlds
-[23:44:26] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[23:44:27] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[23:44:27] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[23:44:27] [Server Shutdown Thread/INFO]: Stopping server
-[23:44:27] [Server Shutdown Thread/INFO]: Saving players
-[23:44:27] [Server Shutdown Thread/INFO]: Saving worlds
-[23:44:27] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
-[23:44:27] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
-[23:44:27] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
+[00:01:52] [Server thread/INFO]: [@: Set the time to 1000]
+[00:05:15] [User Authenticator #2/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
+[00:05:15] [Server thread/INFO]: aeonvortex[/130.85.59.151:44502] logged in with entity id 12878 at (2021.2801155386032, 94.0, 696.5849257212943)
+[00:05:15] [Server thread/INFO]: aeonvortex joined the game
+[00:05:23] [Server thread/INFO]: [@: Set the time to 1000]
+[00:05:24] [Server thread/INFO]: [@: Changing to clear weather]
+[00:05:24] [Server thread/INFO]: [@: Set the time to 1000]
+[00:05:34] [Server thread/INFO]: <aeonvortex> hey
+[00:05:39] [Server thread/INFO]: <GuitarManiac08> Yo!
+[00:05:46] [Server thread/INFO]: <GuitarManiac08> What's up brogrammer?
+[00:06:28] [Server thread/INFO]: <aeonvortex> ehhhh just analyzing this wonderful environment LOL
+[00:06:39] [Server thread/INFO]: <GuitarManiac08> Hahah noice
+[00:07:38] [Server thread/INFO]: <aeonvortex> Yeeeeaaaah so where is the underground entrace going to be?
+[00:07:58] [Server thread/INFO]: <GuitarManiac08> I'm not sure yet. I'm extending the stairs you added to the walkway I created at the entrance
+[00:08:36] [Server thread/INFO]: <aeonvortex> ayeeeee
+[00:08:43] [Server thread/INFO]: <GuitarManiac08> Haha wooot!
+[00:10:03] [Server thread/INFO]: <GuitarManiac08> Do you think we should add some more slabs underneath the fences that are floating?
+[00:10:24] [Server thread/INFO]: <aeonvortex> ahh yes I was wonderfing how we should handle that.
+[00:10:40] [Server thread/INFO]: <aeonvortex> yes
+[00:10:44] [Server thread/INFO]: <GuitarManiac08> Hmm I can test to see what it looks like here
+[00:10:59] [Server thread/INFO]: <aeonvortex> yess ok cool
+[00:11:49] [Server thread/INFO]: <GuitarManiac08> Looks good to me
+[00:12:27] [Server thread/INFO]: [@: Set the time to 1000]
+[00:12:31] [Server thread/INFO]: <aeonvortex> wair....whee?
+[00:12:34] [Server thread/INFO]: <aeonvortex> where
+[00:12:48] [Server thread/INFO]: <aeonvortex> there was a fire wtf
+[00:13:02] [Server thread/INFO]: <GuitarManiac08> Oh yeah where the lightning struck?
+[00:13:13] [Server thread/INFO]: <aeonvortex> oh ok thats probably it.
+[00:13:28] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:14:38] [Server thread/INFO]: <GuitarManiac08> Just realized the color mismatch for the fences haha
+[00:14:40] [Server thread/INFO]: <aeonvortex> SHIT
+[00:14:52] [Server thread/INFO]: <GuitarManiac08> Que paso?
+[00:15:35] [Server thread/INFO]: <aeonvortex> I accidentally
+[00:15:41] [Server thread/INFO]: <aeonvortex> destroyed
+[00:17:15] [Server thread/INFO]: <GuitarManiac08> LOLZ
+[00:17:18] [Server thread/INFO]: <aeonvortex> FUCK
+[00:17:54] [Server thread/INFO]: <aeonvortex> LOL
+[00:18:11] [Server thread/INFO]: <aeonvortex> Okay movie is over
+[00:19:09] [Server thread/INFO]: <GuitarManiac08> Alrighty
+[00:19:19] [Server thread/INFO]: <GuitarManiac08> You ready to voice chat again?
+[00:19:43] [Server thread/INFO]: <aeonvortex> Oh the color was supposed to be different. Otherwise it;'s too uniform.
+[00:20:10] [Server thread/INFO]: <GuitarManiac08> Oh okay
+[00:20:37] [Server thread/INFO]: <aeonvortex> But what do you think?
+[00:20:51] [Server thread/INFO]: [@: Set the time to 1000]
+[00:20:59] [Server thread/INFO]: <GuitarManiac08> It just looked like it was too sudden of a color change
+[00:21:30] [Server thread/INFO]: <aeonvortex> Oh.... look up top.
+[00:21:41] [Server thread/INFO]: <GuitarManiac08> But I agree that there should be a color contrast
+[00:21:42] [Server thread/INFO]: <aeonvortex> at the bridges.
+[00:22:16] [Server thread/INFO]: <aeonvortex> Oh ok we can go with whichever, oh yes I can chat very soon.
+[00:22:40] [Server thread/INFO]: <GuitarManiac08> I noticed the color variation up top. It looks good :)
+[00:22:46] [Server thread/INFO]: <GuitarManiac08> Alrighty cool
+[00:23:45] [Server thread/INFO]: <aeonvortex> Going to walk out of here.
+[00:24:05] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:24:55] [Server thread/INFO]: <GuitarManiac08> Walk out of where?
+[00:25:03] [Server thread/INFO]: <aeonvortex> Sarah's apartment LOL
+[00:25:12] [Server thread/INFO]: <GuitarManiac08> While playing minecraft?
+[00:25:22] [Server thread/INFO]: <GuitarManiac08> #Talented
+[00:25:25] [Server thread/INFO]: <aeonvortex> ehhhh
+[00:29:15] [Server thread/INFO]: [@: Set the time to 1000]
+[00:34:02] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:34:03] [Server thread/INFO]: <aeonvortex> shiiir
+[00:34:09] [Server thread/INFO]: <aeonvortex> omg
+[00:34:14] [Server thread/INFO]: <aeonvortex> shit
+[00:34:24] [Server thread/INFO]: <GuitarManiac08> What happened?
+[00:37:03] [Server thread/INFO]: aeonvortex lost connection: Timed out
+[00:37:03] [Server thread/INFO]: aeonvortex left the game
+[00:37:39] [Server thread/INFO]: [@: Set the time to 1000]
+[00:40:44] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:42:08] [User Authenticator #3/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
+[00:42:08] [Server thread/INFO]: aeonvortex[/130.85.59.151:19980] logged in with entity id 36619 at (2029.9540599267402, 71.0, 644.6743520501225)
+[00:42:08] [Server thread/INFO]: aeonvortex joined the game
+[00:43:44] [Server thread/INFO]: [GuitarManiac08: Teleported aeonvortex to GuitarManiac08]
+[00:46:03] [Server thread/INFO]: [@: Set the time to 1000]
+[00:46:20] [Server thread/INFO]: [@: Set the time to 1000]
+[00:46:26] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:54:44] [Server thread/INFO]: [@: Set the time to 1000]
+[00:55:19] [Server thread/INFO]: [@: Set the time to 1000]
+[00:55:27] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[00:58:14] [Server thread/INFO]: <GuitarManiac08> Hold on one moment... I have to download discord again
+[00:58:21] [Server thread/INFO]: <aeonvortex> OMG
+[00:58:40] [Server thread/INFO]: <aeonvortex> No wonder you didn't answer when I called
+[00:58:56] [Server thread/INFO]: <GuitarManiac08> Exactly haha
+[00:58:59] [Server thread/INFO]: <GuitarManiac08> Sorry
+[00:59:28] [Server thread/INFO]: <aeonvortex> No worries
+[01:02:26] [Server thread/INFO]: <GuitarManiac08> Alright all done. I'm calling
+[01:03:02] [Server thread/INFO]: [@: Set the time to 1000]
+[01:04:49] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:11:26] [Server thread/INFO]: [@: Set the time to 1000]
+[01:11:59] [Server thread/INFO]: [@: Set the time to 1000]
+[01:14:57] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:20:00] [Server thread/INFO]: [@: Set the time to 1000]
+[01:20:04] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:28:24] [Server thread/INFO]: [@: Set the time to 1000]
+[01:29:08] [Server thread/INFO]: [@: Set the time to 1000]
+[01:29:12] [Server thread/INFO]: [GuitarManiac08: Changing to clear weather]
+[01:37:32] [Server thread/INFO]: [@: Set the time to 1000]
+[01:43:26] [Server thread/INFO]: [@: Set the time to 1000]
+[01:50:53] [Server thread/INFO]: [@: Set the time to 1000]
+[01:56:19] [Server thread/INFO]: GuitarManiac08 fell out of the world
+[01:56:40] [Server thread/INFO]: [GuitarManiac08: Teleported GuitarManiac08 to aeonvortex]
+[01:59:17] [Server thread/INFO]: [@: Set the time to 1000]
+[02:02:18] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Survival Mode]
+[02:02:30] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Creative Mode]
+[02:03:20] [Server thread/INFO]: [aeonvortex: Set own game mode to Survival Mode]
+[02:07:41] [Server thread/INFO]: [@: Set the time to 1000]
+[02:08:42] [Server thread/INFO]: [GuitarManiac08: Teleported aeonvortex to GuitarManiac08]
+[02:13:53] [Server thread/INFO]: GuitarManiac08 lost connection: Disconnected
+[02:13:53] [Server thread/INFO]: GuitarManiac08 left the game
+[02:13:58] [Server thread/INFO]: aeonvortex lost connection: Disconnected
+[02:13:58] [Server thread/INFO]: aeonvortex left the game
+[02:14:06] [Server thread/INFO]: Stopping the server
+[02:14:06] [Server thread/INFO]: Stopping server
+[02:14:06] [Server thread/INFO]: Saving players
+[02:14:06] [Server thread/INFO]: Saving worlds
+[02:14:06] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[02:14:06] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[02:14:06] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[02:14:06] [Server Shutdown Thread/INFO]: Stopping server
+[02:14:06] [Server Shutdown Thread/INFO]: Saving players
+[02:14:06] [Server Shutdown Thread/INFO]: Saving worlds
+[02:14:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
