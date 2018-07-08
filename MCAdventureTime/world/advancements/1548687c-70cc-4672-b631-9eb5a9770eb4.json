@@ -841,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-07-01 13:38:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-06-10 23:05:30 -0400"
@@ -982,6 +988,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-06-10 22:12:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-07-01 13:38:14 -0400"
     },
     "done": true
   },
@@ -1127,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-07-01 13:38:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-06-10 22:14:17 -0400"
@@ -1202,6 +1220,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2018-06-11 00:48:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2018-07-01 13:38:14 -0400"
     },
     "done": true
   },

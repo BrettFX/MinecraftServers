@@ -744,5 +744,11 @@
       "has_bed": "2018-06-10 23:59:34 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-06-30 13:35:20 -0400"
+    },
+    "done": true
   }
 }
