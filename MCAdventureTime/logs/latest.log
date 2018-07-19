@@ -1,61 +1,9 @@
-[00:29:46] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[00:29:46] [Server thread/INFO]: Loading properties
-[00:29:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:29:46] [Server thread/INFO]: Generating keypair
-[00:29:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:29:46] [Server thread/INFO]: Using default channel type
-[00:29:46] [Server thread/INFO]: Preparing level "world"
-[00:29:47] [Server thread/INFO]: Loaded 488 advancements
-[00:29:47] [Server thread/INFO]: Preparing start region for level 0
-[00:29:48] [Server thread/INFO]: Preparing spawn area: 77%
-[00:29:48] [Server thread/INFO]: Done (1.409s)! For help, type "help" or "?"
-[00:30:03] [User Authenticator #1/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[00:30:04] [Server thread/INFO]: aeonvortex[/98.211.98.7:53256] logged in with entity id 137 at (2024.0095279912468, 12.0, 636.6957666970624)
-[00:30:04] [Server thread/INFO]: aeonvortex joined the game
-[00:30:34] [Server thread/INFO]: [@: Set the time to 1000]
-[00:30:38] [User Authenticator #2/INFO]: UUID of player GuitarManiac08 is 1548687c-70cc-4672-b631-9eb5a9770eb4
-[00:30:38] [Server thread/INFO]: GuitarManiac08[/73.213.13.208:50822] logged in with entity id 432 at (2025.2324241122656, 12.0625, 625.9276400066302)
-[00:30:38] [Server thread/INFO]: GuitarManiac08 joined the game
-[00:31:01] [Server thread/INFO]: aeonvortex lost connection: Disconnected
-[00:31:01] [Server thread/INFO]: aeonvortex left the game
-[00:31:54] [User Authenticator #3/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[00:31:54] [Server thread/INFO]: aeonvortex[/98.211.98.7:53266] logged in with entity id 1008 at (2030.318756145522, 12.0625, 632.6321070388885)
-[00:31:54] [Server thread/INFO]: aeonvortex joined the game
-[00:32:24] [Server thread/INFO]: aeonvortex lost connection: Timed out
-[00:32:24] [Server thread/INFO]: aeonvortex left the game
-[00:36:28] [Server thread/INFO]: [@: Set the time to 1000]
-[00:37:36] [User Authenticator #4/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[00:37:36] [Server thread/INFO]: aeonvortex[/98.211.98.7:53314] logged in with entity id 3618 at (2030.318756145522, 12.0625, 632.6321070388885)
-[00:37:36] [Server thread/INFO]: aeonvortex joined the game
-[00:40:19] [Server thread/INFO]: [aeonvortex: Set own game mode to Creative Mode]
-[00:42:22] [Server thread/INFO]: [@: Set the time to 1000]
-[00:47:31] [Server thread/WARN]: aeonvortex moved too quickly! -9.90208913701099,-0.05879684053919121,-2.1941359197700194
-[00:49:37] [Server thread/INFO]: aeonvortex lost connection: Timed out
-[00:49:37] [Server thread/INFO]: aeonvortex left the game
-[00:50:19] [User Authenticator #5/INFO]: UUID of player aeonvortex is 72c6fc8d-8ac2-4c73-a5a0-7c7fbdab93a1
-[00:50:19] [Server thread/INFO]: aeonvortex[/98.211.98.7:53329] logged in with entity id 9863 at (2022.926001817099, 12.0625, 627.7212868792891)
-[00:50:19] [Server thread/INFO]: aeonvortex joined the game
-[00:50:46] [Server thread/INFO]: [@: Set the time to 1000]
-[00:51:45] [Server thread/INFO]: [@: Teleported aeonvortex to 2026.5, 70.0, 636.5]
-[00:52:47] [Server thread/INFO]: [aeonvortex: Set own game mode to Survival Mode]
-[00:59:10] [Server thread/INFO]: [@: Set the time to 1000]
-[01:00:01] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Creative Mode]
-[01:00:20] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Creative Mode]
-[01:00:43] [Server thread/INFO]: [GuitarManiac08: Set own game mode to Survival Mode]
-[01:02:22] [Server thread/INFO]: GuitarManiac08 lost connection: Disconnected
-[01:02:22] [Server thread/INFO]: GuitarManiac08 left the game
-[01:02:31] [Server thread/INFO]: aeonvortex lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[01:02:31] [Server thread/INFO]: aeonvortex left the game
-[01:02:49] [Server thread/INFO]: There are 0/20 players online:
-[01:02:49] [Server thread/INFO]: 
-[01:02:52] [Server thread/INFO]: Stopping the server
-[01:02:53] [Server thread/INFO]: Stopping server
-[01:02:53] [Server thread/INFO]: Saving players
-[01:02:53] [Server thread/INFO]: Saving worlds
-[01:02:53] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[01:02:53] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[01:02:53] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[01:02:53] [Server Shutdown Thread/INFO]: Stopping server
-[01:02:53] [Server Shutdown Thread/INFO]: Saving players
-[01:02:53] [Server Shutdown Thread/INFO]: Saving worlds
-[01:02:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[14:15:32] [User Authenticator #1/INFO]: UUID of player Geometri is fc27ae28-8426-4eea-8a86-2024ee58a6cc
+[14:15:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@d83d29[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@11863f8]},legacy=false] (/99.232.182.83:63344): You are not white-listed on this server!
+[14:15:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@d83d29[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@11863f8]},legacy=false] (/99.232.182.83:63344) lost connection: You are not white-listed on this server!
+[18:22:52] [User Authenticator #2/INFO]: UUID of player Geometri is fc27ae28-8426-4eea-8a86-2024ee58a6cc
+[18:22:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@13cbda[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@102c755]},legacy=false] (/99.232.182.83:49211): You are not white-listed on this server!
+[18:22:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@13cbda[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@102c755]},legacy=false] (/99.232.182.83:49211) lost connection: You are not white-listed on this server!
+[18:23:03] [User Authenticator #3/INFO]: UUID of player Geometri is fc27ae28-8426-4eea-8a86-2024ee58a6cc
+[18:23:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@8bb67f[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@1044b20]},legacy=false] (/99.232.182.83:49223): You are not white-listed on this server!
+[18:23:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@8bb67f[id=fc27ae28-8426-4eea-8a86-2024ee58a6cc,name=Geometri,properties={textures=[com.mojang.authlib.properties.Property@1044b20]},legacy=false] (/99.232.182.83:49223) lost connection: You are not white-listed on this server!
